@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListandGrid</string>
+    <string name="judul">latihan ListView dan GridView</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>

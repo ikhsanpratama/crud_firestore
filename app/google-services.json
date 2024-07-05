@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694897529038",
+    "project_id": "latihanfirestore-e02ce",
+    "storage_bucket": "latihanfirestore-e02ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694897529038:android:0c59a617ae40461121c09f",
+        "android_client_info": {
+          "package_name": "com.example.listandgrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1pQ3n1tCSzg2TPE1dZhQLqM6erkjcFAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
